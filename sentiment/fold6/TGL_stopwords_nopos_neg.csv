@@ -1,4 +1,3 @@
-PhraseIDs	0.001
 20_cell_neg_1	0.001
 20_cell_neg_2	0.001
 20_cell_neg_3	0.001
@@ -192,7 +191,7 @@ PhraseIDs	0.001
 11_kitchen_pos_16	0.001
 11_kitchen_pos_17	0.5
 11_kitchen_pos_18	0.001
-11_kitchen_pos_19	1.0
+11_kitchen_pos_19	1.0005
 11_kitchen_pos_20	0.001
 11_kitchen_pos_21	0.001
 11_kitchen_pos_22	0.001
