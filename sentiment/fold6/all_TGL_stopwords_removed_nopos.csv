@@ -35,7 +35,7 @@ PhraseIDs	0.001	0.001
 20_cell_neg_34	0.0505	0.1005
 20_cell_neg_35	0.001	0.001
 5_cell_pos_1	0.001	0.2
-5_cell_pos_2	1.5	0.001
+5_cell_pos_2	1.0	0.001
 5_cell_pos_3	0.001	0.001
 5_cell_pos_4	0.001	0.001
 5_cell_pos_5	0.001	0.001
@@ -192,7 +192,7 @@ PhraseIDs	0.001	0.001
 11_kitchen_pos_16	0.001	0.4
 11_kitchen_pos_17	0.5	0.001
 11_kitchen_pos_18	0.001	0.2
-11_kitchen_pos_19	1.5005	0.1005
+11_kitchen_pos_19	1.0	0.1005
 11_kitchen_pos_20	0.001	0.001
 11_kitchen_pos_21	0.001	0.001
 11_kitchen_pos_22	0.001	0.6
@@ -293,7 +293,7 @@ PhraseIDs	0.001	0.001
 12_gourmet_pos_2	0.12575	0.15025
 12_gourmet_pos_3	0.001	0.001
 12_gourmet_pos_4	0.2505	0.4
-12_gourmet_pos_5	1.5	0.001
+12_gourmet_pos_5	1.0	0.001
 12_gourmet_pos_6	0.45	0.001
 12_gourmet_pos_7	0.058	0.2572857142857143
 12_gourmet_pos_8	0.001	0.001
@@ -553,7 +553,7 @@ PhraseIDs	0.001	0.001
 18_kitchen_pos_8	0.001	0.2
 18_kitchen_pos_9	0.001	0.1
 18_kitchen_pos_10	0.001	0.001
-18_kitchen_pos_11	1.5	0.001
+18_kitchen_pos_11	1.0	0.001
 18_kitchen_pos_12	0.2505	0.2
 18_kitchen_pos_13	0.001	0.8
 18_kitchen_pos_14	0.8666666666666667	0.001
@@ -640,7 +640,7 @@ PhraseIDs	0.001	0.001
 7_gourmet_pos_2	0.12575	0.15025
 7_gourmet_pos_3	0.001	0.001
 7_gourmet_pos_4	0.2505	0.4
-7_gourmet_pos_5	1.5	0.001
+7_gourmet_pos_5	1.0	0.001
 7_gourmet_pos_6	0.45	0.001
 7_gourmet_pos_7	0.058	0.2572857142857143
 7_gourmet_pos_8	0.001	0.001

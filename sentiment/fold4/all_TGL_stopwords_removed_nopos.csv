@@ -648,7 +648,7 @@ PhraseIDs	0.001	0.001
 20_kitchen_neg_42	0.001	0.001
 20_kitchen_neg_43	0.2505	0.4
 20_kitchen_neg_44	0.001	0.001
-14_gourmet_pos_1	1.5	0.001
+14_gourmet_pos_1	1.0	0.001
 14_gourmet_pos_2	0.55	0.001
 14_gourmet_pos_3	0.001	0.2
 14_gourmet_pos_4	0.2	0.001
@@ -687,7 +687,7 @@ PhraseIDs	0.001	0.001
 14_gourmet_pos_37	0.001	0.001
 14_gourmet_pos_38	0.001	1.0
 14_gourmet_pos_39	0.001	0.001
-14_gourmet_pos_40	1.5	0.001
+14_gourmet_pos_40	1.0	0.001
 14_gourmet_pos_41	0.001	0.001
 14_gourmet_pos_42	0.001	0.001
 14_gourmet_pos_43	0.001	0.001
