@@ -292,7 +292,7 @@
 12_gourmet_pos_2	0.3
 12_gourmet_pos_3	0.001
 12_gourmet_pos_4	0.001
-12_gourmet_pos_5	
+12_gourmet_pos_5	0.001
 12_gourmet_pos_6	0.001
 12_gourmet_pos_7	0.6
 12_gourmet_pos_8	0.001
@@ -639,7 +639,7 @@
 7_gourmet_pos_2	0.3
 7_gourmet_pos_3	0.001
 7_gourmet_pos_4	0.001
-7_gourmet_pos_5	
+7_gourmet_pos_5	0.001
 7_gourmet_pos_6	0.001
 7_gourmet_pos_7	0.6
 7_gourmet_pos_8	0.001
@@ -686,7 +686,7 @@
 19_gourmet_neg_4	0.001
 19_gourmet_neg_5	0.3
 19_gourmet_neg_6	0.001
-19_gourmet_neg_7	
+19_gourmet_neg_7	0.001
 19_gourmet_neg_8	0.3
 19_gourmet_neg_9	0.001
 19_gourmet_neg_10	0.001

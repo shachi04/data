@@ -203,7 +203,7 @@
 16_kitchen_pos_22	0.3
 16_kitchen_pos_23	0.3
 16_kitchen_pos_24	0.3
-16_kitchen_pos_25	
+16_kitchen_pos_25	0.001
 16_kitchen_pos_26	0.3
 16_kitchen_pos_27	0.3
 16_kitchen_pos_28	0.001
@@ -216,7 +216,7 @@
 16_kitchen_pos_35	0.3
 16_kitchen_pos_36	0.001
 16_kitchen_pos_37	0.3
-16_kitchen_pos_38	
+16_kitchen_pos_38	0.001
 16_kitchen_pos_39	0.3
 16_kitchen_pos_40	0.3
 16_kitchen_pos_41	0.001
@@ -496,7 +496,7 @@
 17_kitchen_pos_11	0.001
 17_kitchen_pos_12	0.3
 17_kitchen_pos_13	0.6
-17_kitchen_pos_14	
+17_kitchen_pos_14	0.001
 17_kitchen_pos_15	0.3
 17_kitchen_pos_16	0.001
 17_kitchen_pos_17	0.3
@@ -509,7 +509,7 @@
 17_kitchen_pos_24	0.3
 17_kitchen_pos_25	0.001
 17_kitchen_pos_26	0.001
-17_kitchen_pos_27	
+17_kitchen_pos_27	0.001
 17_kitchen_pos_28	0.3
 17_kitchen_pos_29	0.001
 17_kitchen_pos_30	0.001
