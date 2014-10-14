@@ -146,14 +146,14 @@
 1_cell_neg_146	0.001
 1_cell_neg_147	0.001
 1_cell_neg_148	0.001
-1_cell_neg_149	0.3
+1_cell_neg_149	0.6
 1_cell_neg_150	0.6
 1_cell_neg_151	0.3
 1_cell_neg_152	0.3
 1_cell_neg_153	0.001
 1_cell_neg_154	0.6
 1_cell_neg_155	0.001
-1_cell_neg_156	0.3
+1_cell_neg_156	0.6
 1_cell_neg_157	0.001
 1_cell_neg_158	0.001
 1_cell_neg_159	0.001
@@ -170,7 +170,7 @@
 1_cell_neg_170	0.6
 1_cell_neg_171	0.3
 1_cell_neg_172	0.3
-1_cell_neg_173	0.3
+1_cell_neg_173	0.6
 1_cell_neg_174	0.3
 1_cell_neg_175	0.001
 1_cell_neg_176	0.001
@@ -209,7 +209,7 @@
 1_cell_neg_209	0.3
 1_cell_neg_210	0.001
 1_cell_neg_211	0.001
-1_cell_neg_212	0.3
+1_cell_neg_212	0.6
 1_cell_neg_213	0.001
 1_cell_neg_214	0.3
 1_cell_neg_215	0.6
@@ -229,7 +229,7 @@
 1_cell_neg_229	0.3
 1_cell_neg_230	0.6
 1_cell_neg_231	0.001
-1_cell_neg_232	0.3
+1_cell_neg_232	0.6
 1_cell_neg_233	0.001
 1_cell_neg_234	0.9
 1_cell_neg_235	0.3
@@ -304,7 +304,7 @@
 13_cell_pos_49	0.3
 13_cell_pos_50	0.6
 13_cell_pos_51	0.001
-13_cell_pos_52	0.3
+13_cell_pos_52	0.6
 13_cell_pos_53	0.3
 13_cell_pos_54	0.001
 13_cell_pos_55	0.001
@@ -341,7 +341,7 @@
 13_cell_pos_86	0.001
 13_cell_pos_87	0.001
 13_cell_pos_88	0.001
-13_cell_pos_89	0.3
+13_cell_pos_89	0.6
 13_cell_pos_90	0.6
 13_cell_pos_91	0.001
 13_cell_pos_92	0.001
@@ -375,7 +375,7 @@
 12_kitchen_pos_28	0.9
 12_kitchen_pos_29	0.001
 12_kitchen_pos_30	0.001
-12_kitchen_pos_31	0.3
+12_kitchen_pos_31	0.6
 12_kitchen_pos_32	0.3
 12_kitchen_pos_33	0.001
 12_kitchen_pos_34	0.9
@@ -419,7 +419,7 @@
 17_kitchen_neg_11	0.001
 17_kitchen_neg_12	0.6
 17_kitchen_neg_13	0.3
-17_kitchen_neg_14	0.3
+17_kitchen_neg_14	0.6
 17_kitchen_neg_15	0.001
 17_kitchen_neg_16	0.001
 17_kitchen_neg_17	0.001
@@ -481,7 +481,7 @@
 17_gourmet_pos_27	0.001
 17_gourmet_pos_28	0.001
 17_gourmet_pos_29	0.001
-17_gourmet_pos_30	0.3
+17_gourmet_pos_30	0.6
 17_gourmet_pos_31	0.001
 17_gourmet_pos_32	0.9
 17_gourmet_pos_33	0.3
@@ -503,7 +503,7 @@
 12_gourmet_neg_5	0.001
 12_gourmet_neg_6	0.001
 12_gourmet_neg_7	0.6
-12_gourmet_neg_8	0.3
+12_gourmet_neg_8	0.6
 12_gourmet_neg_9	0.6
 12_gourmet_neg_10	0.3
 12_gourmet_neg_11	0.001
@@ -535,7 +535,7 @@
 12_cell_neg_16	0.001
 12_cell_neg_17	0.001
 12_cell_neg_18	0.3
-12_cell_neg_19	0.3
+12_cell_neg_19	0.6
 12_cell_neg_20	0.001
 12_cell_neg_21	0.6
 12_cell_neg_22	0.001
@@ -593,7 +593,7 @@
 17_cell_pos_35	0.001
 17_cell_pos_36	0.001
 17_cell_pos_37	0.6
-17_cell_pos_38	0.3
+17_cell_pos_38	0.6
 17_cell_pos_39	0.001
 17_cell_pos_40	0.001
 17_cell_pos_41	0.3
@@ -610,7 +610,7 @@
 17_cell_pos_52	0.3
 17_cell_pos_53	0.001
 17_cell_pos_54	0.001
-17_cell_pos_55	0.3
+17_cell_pos_55	0.6
 17_cell_pos_56	0.3
 17_cell_pos_57	0.001
 17_cell_pos_58	0.001
@@ -618,14 +618,14 @@
 17_cell_pos_60	0.3
 17_cell_pos_61	0.3
 17_cell_pos_62	0.001
-17_cell_pos_63	0.6
+17_cell_pos_63	0.9
 17_cell_pos_64	0.6
 17_cell_pos_65	0.001
 17_cell_pos_66	0.001
 17_cell_pos_67	0.001
 17_cell_pos_68	0.001
 17_cell_pos_69	0.001
-17_cell_pos_70	0.3
+17_cell_pos_70	0.6
 17_cell_pos_71	0.001
 17_cell_pos_72	0.001
 17_cell_pos_73	0.6
@@ -724,7 +724,7 @@
 2_kitchen_pos_92	0.001
 2_kitchen_pos_93	0.001
 2_kitchen_pos_94	0.6
-2_kitchen_pos_95	0.3
+2_kitchen_pos_95	0.6
 2_kitchen_pos_96	0.6
 2_kitchen_pos_97	0.001
 2_kitchen_pos_98	0.6
@@ -735,7 +735,7 @@
 2_kitchen_pos_103	0.001
 2_kitchen_pos_104	0.001
 2_kitchen_pos_105	0.001
-2_kitchen_pos_106	0.3
+2_kitchen_pos_106	0.6
 2_kitchen_pos_107	0.001
 2_kitchen_pos_108	0.001
 2_kitchen_pos_109	0.6
@@ -869,7 +869,7 @@
 16_gourmet_pos_27	0.001
 16_gourmet_pos_28	0.001
 16_gourmet_pos_29	0.001
-16_gourmet_pos_30	0.3
+16_gourmet_pos_30	0.6
 16_gourmet_pos_31	0.001
 16_gourmet_pos_32	0.9
 16_gourmet_pos_33	0.3
@@ -900,7 +900,7 @@
 5_gourmet_neg_14	0.9
 5_gourmet_neg_15	0.001
 5_gourmet_neg_16	0.001
-5_gourmet_neg_17	0.6
+5_gourmet_neg_17	0.9
 5_gourmet_neg_18	0.001
 5_gourmet_neg_19	0.001
 5_gourmet_neg_20	0.001
